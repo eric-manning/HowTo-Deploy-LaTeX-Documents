@@ -48,4 +48,4 @@ deploy:
     - "HowtoDeployLatexDocs-EN.djvu"
   skip_cleanup: true
   on:
-    repo: SimonWaldherr/HowTo-Deploy-LaTeX-Documents
+    repo: eric-manning/HowTo-Deploy-LaTeX-Documents
