@@ -37,7 +37,7 @@ deploy:
   api_key:
 
 # Travis CI public key encrypted GitHub oauth key for pushing to GitHub Releases
-    secure: 50c592d5649fca46e26d705a3da14417839f2d20
+    secure: bb5aecccfd084faa37d76a3c8186ceae98fb2e8b
 
 # the list of files to upload
   file: 
